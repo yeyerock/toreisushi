@@ -7,14 +7,14 @@
       </div> 
 
 
-    <div class="cabecera_categoria d-flex justify-content-around mb-5">
-        <div class="cont_textos col-7">
+    <div class="cabecera_categoria d-flex justify-content-center align-items-center mb-5">
+      <div class="logo_categoria col-3 col-sm-1 mx-3">
+        <img class="w-100" src="../assets/internal/rollos.png" alt="">
+    </div>  
+      <div class="cont_textos col-7">
             <h1 class="titulo">Rollos</h1>
             <h3 class="subtitulo">ロールズ</h3>
-        </div>
-        <div class="logo_categoria col-3">
-            <img class="w-100" src="../assets/internal/rollos.png" alt="">
-        </div>
+        </div>       
     </div>
 
     <div class="swiper mySwiper">
@@ -39,8 +39,8 @@
           <div class="cont_descripcion">
             <h2 class="nombre_platillo mb-0">Rollo de Arrachera Especial</h2>
             <p class="precio_platillo mb-0">$69.00</p>
-            <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
-            <p class="texto_platillo ">Ext: Ajonjolí</p>
+            <p class="texto_platillo  mb-0">Int: Arrachera, Queso philadeplhia</p>
+            <p class="texto_platillo ">Ext: Aguacate, Ajonjolí</p>
           </div>
         </div>
 
@@ -51,8 +51,8 @@
           <div class="cont_descripcion">
             <h2 class="nombre_platillo mb-0">Rollo de Camarón Especial</h2>
             <p class="precio_platillo mb-0">$69.00</p>
-            <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
-            <p class="texto_platillo ">Ext: Ajonjolí</p>
+            <p class="texto_platillo  mb-0">Int: Camarón, Queso philadeplhia</p>
+            <p class="texto_platillo ">Ext: Alga</p>
           </div>
         </div>
 
@@ -63,8 +63,8 @@
           <div class="cont_descripcion">
             <h2 class="nombre_platillo mb-0">Rollo de Surimi Especial</h2>
             <p class="precio_platillo mb-0">$69.00</p>
-            <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
-            <p class="texto_platillo ">Ext: Ajonjolí</p>
+            <p class="texto_platillo  mb-0">Int: Surimi, Queso philadelphia, Alga</p>
+            <p class="texto_platillo ">Ext: Surimi</p>
           </div>
         </div>
 
@@ -86,7 +86,7 @@
           <div class="cont_descripcion">
             <h2 class="nombre_platillo mb-0">Rollo de Arrachera</h2>
             <p class="precio_platillo mb-0">$69.00</p>
-            <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
+            <p class="texto_platillo  mb-0">Int: Arrachera, Queso philadelphia</p>
             <p class="texto_platillo ">Ext: Ajonjolí</p>
           </div>
         </div>
@@ -98,7 +98,7 @@
           <div class="cont_descripcion">
             <h2 class="nombre_platillo mb-0">Rollo de Camarón</h2>
             <p class="precio_platillo mb-0">$69.00</p>
-            <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
+            <p class="texto_platillo  mb-0">Int: Camarón, Pepino, Queso philadelphia</p>
             <p class="texto_platillo ">Ext: Ajonjolí</p>
           </div>
         </div>
@@ -110,7 +110,7 @@
           <div class="cont_descripcion">
             <h2 class="nombre_platillo mb-0">Rollo de Mango</h2>
             <p class="precio_platillo mb-0">$69.00</p>
-            <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
+            <p class="texto_platillo  mb-0">Int: Mango, Pepino, Queso philadelphia</p>
             <p class="texto_platillo ">Ext: Ajonjolí</p>
           </div>
         </div>
@@ -122,7 +122,7 @@
           <div class="cont_descripcion">
             <h2 class="nombre_platillo mb-0">Rollo de Pulpo</h2>
             <p class="precio_platillo mb-0">$69.00</p>
-            <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
+            <p class="texto_platillo  mb-0">Int: Pulpo, Pepino, Queso philadelphia</p>
             <p class="texto_platillo ">Ext: Ajonjolí</p>
           </div>
         </div>
@@ -134,7 +134,7 @@
           <div class="cont_descripcion">
             <h2 class="nombre_platillo mb-0">Rollo de Salmón</h2>
             <p class="precio_platillo mb-0">$69.00</p>
-            <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
+            <p class="texto_platillo  mb-0">Int: Salmón, Pepino, Queso philadelphia</p>
             <p class="texto_platillo ">Ext: Ajonjolí</p>
           </div>
         </div>
@@ -146,7 +146,7 @@
           <div class="cont_descripcion">
             <h2 class="nombre_platillo mb-0">Rollo de Surimi</h2>
             <p class="precio_platillo mb-0">$69.00</p>
-            <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
+            <p class="texto_platillo  mb-0">Int: Surimi, Pepino, Queso philadelphia</p>
             <p class="texto_platillo ">Ext: Ajonjolí</p>
           </div>
         </div>
@@ -169,8 +169,8 @@
           <div class="cont_descripcion">
             <h2 class="nombre_platillo mb-0">Rollo de Arrachera</h2>
             <p class="precio_platillo mb-0">$69.00</p>
-            <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
-            <p class="texto_platillo ">Ext: Ajonjolí</p>
+            <p class="texto_platillo  mb-0">Int: Arrachera, Queso philadelphia</p>
+            <p class="texto_platillo ">Ext: Cubierta empanizada</p>
           </div>
         </div>
 
@@ -181,8 +181,8 @@
           <div class="cont_descripcion">
             <h2 class="nombre_platillo mb-0">Rollo de Camarón</h2>
             <p class="precio_platillo mb-0">$69.00</p>
-            <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
-            <p class="texto_platillo ">Ext: Ajonjolí</p>
+            <p class="texto_platillo  mb-0">Int: Camarón, Queso philadelphia</p>
+            <p class="texto_platillo ">Ext: Cubierta empanizada</p>
           </div>
         </div>
 
@@ -193,8 +193,8 @@
           <div class="cont_descripcion">
             <h2 class="nombre_platillo mb-0">Rollo de Manchego</h2>
             <p class="precio_platillo mb-0">$69.00</p>
-            <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
-            <p class="texto_platillo ">Ext: Ajonjolí</p>
+            <p class="texto_platillo  mb-0">Int: Queso manchego, Queso philadelphia</p>
+            <p class="texto_platillo ">Ext: Cubierta empanizada</p>
           </div>
         </div>
 
@@ -205,8 +205,8 @@
           <div class="cont_descripcion">
             <h2 class="nombre_platillo mb-0">Rollo de Pulpo</h2>
             <p class="precio_platillo mb-0">$69.00</p>
-            <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
-            <p class="texto_platillo ">Ext: Ajonjolí</p>
+            <p class="texto_platillo  mb-0">Int: Pulpo, Queso philadelphia</p>
+            <p class="texto_platillo ">Ext: Cubierta empanizada</p>
           </div>
         </div>
 
@@ -217,8 +217,8 @@
           <div class="cont_descripcion">
             <h2 class="nombre_platillo mb-0">Rollo de Salmón</h2>
             <p class="precio_platillo mb-0">$69.00</p>
-            <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
-            <p class="texto_platillo ">Ext: Ajonjolí</p>
+            <p class="texto_platillo  mb-0">Int: Salmón, Queso philadelphia</p>
+            <p class="texto_platillo ">Ext: Cubierta empanizada</p>
           </div>
         </div>
 
@@ -229,8 +229,8 @@
           <div class="cont_descripcion">
             <h2 class="nombre_platillo mb-0">Rollo de Surimi</h2>
             <p class="precio_platillo mb-0">$69.00</p>
-            <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
-            <p class="texto_platillo ">Ext: Ajonjolí</p>
+            <p class="texto_platillo  mb-0">Int: Surimi, Queso philadelphia</p>
+            <p class="texto_platillo ">Ext: Cubierta empanizada</p>
           </div>
         </div>
 

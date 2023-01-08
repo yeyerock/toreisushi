@@ -5,14 +5,14 @@
             </router-link>
         </div> 
 
-     <div class="cabecera_categoria d-flex justify-content-around mb-5">
-         <div class="cont_textos col-7">
+     <div class="cabecera_categoria d-flex justify-content-center align-items-center mb-5">
+      <div class="logo_categoria col-3 col-sm-1 mx-3">
+        <img class="w-100" src="../assets/internal/extra.png" alt="">
+      </div> 
+        <div class="cont_textos col-7">
              <h1 class="titulo">Extras</h1>
              <h3 class="subtitulo">追加機能</h3>
-         </div>
-         <div class="logo_categoria col-3">
-             <img class="w-100" src="../assets/internal/extra.png" alt="">
-         </div>
+         </div>         
      </div>
  
      <div class="swiper mySwiper">
@@ -25,8 +25,8 @@
              <div class="cont_descripcion">
              <h2 class="nombre_platillo mb-0">Onigiris Arrachera</h2>
              <p class="precio_platillo mb-0">$70.00</p>
-             <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
-             <p class="texto_platillo ">Ext: Ajonjolí</p>
+             <p class="texto_platillo  mb-0">Int: Arrachera, Queso philadelphia, Aguacate, Arroz blanco</p>
+             <p class="texto_platillo ">Ext: Alga</p>
            </div>
          </div>
 
@@ -37,9 +37,8 @@
              <div class="cont_descripcion">
              <h2 class="nombre_platillo mb-0">Rollos Primavera</h2>
              <p class="precio_platillo mb-0">$70.00</p>
-             <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
-             <p class="texto_platillo ">Ext: Ajonjolí</p>
-           </div>
+             <p class="texto_platillo  mb-0">Ing: Rollo de pasta, verduras estilo Juliana y carne</p>
+          </div>
          </div>
  
        </div>

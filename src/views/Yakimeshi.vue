@@ -5,14 +5,14 @@
             </router-link>
         </div> 
 
-     <div class="cabecera_categoria d-flex justify-content-around mb-5">
-         <div class="cont_textos col-7">
+     <div class="cabecera_categoria d-flex justify-content-center align-items-center mb-5">
+      <div class="logo_categoria col-3 col-sm-1 mx-3">
+        <img class="w-100" src="../assets/internal/yakimeshi.png" alt="">
+      </div> 
+        <div class="cont_textos col-7">
              <h1 class="titulo">Yakimeshi</h1>
              <h3 class="subtitulo">ドラゴンボール</h3>
-         </div>
-         <div class="logo_categoria col-3">
-             <img class="w-100" src="../assets/internal/yakimeshi.png" alt="">
-         </div>
+         </div>         
      </div>
  
      <div class="swiper mySwiper">
@@ -25,8 +25,8 @@
              <div class="cont_descripcion">
              <h2 class="nombre_platillo mb-0">Yakimeshi Arrachera</h2>
              <p class="precio_platillo mb-0">$89.00</p>
-             <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
-             <p class="texto_platillo ">Ext: Ajonjolí</p>
+             <p class="texto_platillo  mb-0">Ing: Arrachera, Surimi, Aguacate, Arroz blanco, Ajonjolí</p>
+             
            </div>
          </div>
 
@@ -37,8 +37,7 @@
              <div class="cont_descripcion">
              <h2 class="nombre_platillo mb-0">Yakimeshi Camarón</h2>
              <p class="precio_platillo mb-0">$89.00</p>
-             <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
-             <p class="texto_platillo ">Ext: Ajonjolí</p>
+             <p class="texto_platillo  mb-0">Ing: Camarón, Surimi, Aguacate, Arroz blanco, Ajonjolí</p>
            </div>
          </div>
          
@@ -49,8 +48,7 @@
              <div class="cont_descripcion">
              <h2 class="nombre_platillo mb-0">Yakimeshi Surimi</h2>
              <p class="precio_platillo mb-0">$89.00</p>
-             <p class="texto_platillo  mb-0">Int: Arrachera, Queso, Aguacate</p>
-             <p class="texto_platillo ">Ext: Ajonjolí</p>
+             <p class="texto_platillo  mb-0">Ing: Surimi, Aguacate, Arroz blanco, Ajonjolí</p>
            </div>
          </div>
  
